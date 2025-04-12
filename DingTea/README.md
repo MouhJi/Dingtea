@@ -1,6 +1,6 @@
 
 -Cài đặt:
-yarn install
+yarn install ->
 yarn android hoặc yarn ios
 
 
