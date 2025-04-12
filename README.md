@@ -1,6 +1,6 @@
 -Cài đặt:
--yarn install 
--yarn android hoặc yarn ios
+B1:yarn install 
+B2:yarn android hoặc yarn ios
 
 Chạy thử
 Số điện thoại: 0987654321
