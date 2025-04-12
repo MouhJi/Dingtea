@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "125A Trần Huy Liệu",
+      "phone": "0987654321",
+      "address": "125A Trần Huy Liệu, Ba Đình, Hà Nội"
+    },
+    {
+      "id": 2,
+      "name": "27 Hàng Than",
+      "phone": "0987654321",
+      "address": "27 Hàng Than, Ba Đình, Hà Nội"
+    },
+    {
+      "id": 3,
+      "name": "Toà nhà Hancorp",
+      "phone": "0987654321",
+      "address": "72 Trần Đăng Ninh, Cầu Giấy, Hà Nội"
+    }
+]

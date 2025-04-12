@@ -1,0 +1,250 @@
+[
+  {
+    "id": 4,
+    "sku": "ice_4",
+    "type": "option",
+    "name": "Không đá",
+    "option_name": "",
+    "products": [
+      {
+        "id": 41,
+        "sku": "ice_41",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 4,
+        "indexes": [1]
+      },
+      {
+        "id": 42,
+        "sku": "ice_42",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 4,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sku": "ice_5",
+    "type": "option",
+    "name": "1/2 đá",
+    "option_name": "",
+    "products": [
+      {
+        "id": 51,
+        "sku": "ice_51",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 5,
+        "indexes": [1]
+      },
+      {
+        "id": 52,
+        "sku": "ice_52",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 5,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sku": "ice_6",
+    "type": "option",
+    "name": "3/4 đá",
+    "option_name": "",
+    "products": [
+      {
+        "id": 61,
+        "sku": "ice_61",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 6,
+        "indexes": [1]
+      },
+      {
+        "id": 62,
+        "sku": "ice_62",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 6,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sku": "ice_7",
+    "type": "option",
+    "name": "Đầy đủ đá",
+    "option_name": "",
+    "products": [
+      {
+        "id": 71,
+        "sku": "ice_71",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 7,
+        "indexes": [1]
+      },
+      {
+        "id": 72,
+        "sku": "ice_72",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 7,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sku": "sugar_8",
+    "type": "option",
+    "name": "Không đường",
+    "option_name": "",
+    "products": [
+      {
+        "id": 81,
+        "sku": "sugar_81",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 8,
+        "indexes": [1]
+      },
+      {
+        "id": 82,
+        "sku": "sugar_82",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 8,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sku": "sugar_9",
+    "type": "option",
+    "name": "1/2 đường",
+    "option_name": "",
+    "products": [
+      {
+        "id": 91,
+        "sku": "sugar_91",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 9,
+        "indexes": [1]
+      },
+      {
+        "id": 92,
+        "sku": "sugar_92",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 9,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "sku": "sugar_10",
+    "type": "option",
+    "name": "3/4 đường",
+    "option_name": "",
+    "products": [
+      {
+        "id": 101,
+        "sku": "sugar_101",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 10,
+        "indexes": [1]
+      },
+      {
+        "id": 102,
+        "sku": "sugar_102",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 10,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sku": "sugar_11",
+    "type": "option",
+    "name": "Đầy đủ đường",
+    "option_name": "",
+    "products": [
+      {
+        "id": 111,
+        "sku": "sugar_111",
+        "type": "option",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 11,
+        "indexes": [1]
+      },
+      {
+        "id": 112,
+        "sku": "sugar_112",
+        "type": "option",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 0,
+        "price": 0,
+        "parent_id": 11,
+        "indexes": [2]
+      }
+    ]
+  }
+]

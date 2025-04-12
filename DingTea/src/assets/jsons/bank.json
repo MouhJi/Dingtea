@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "method": 1,
+      "type": "vietcombank",
+      "name": "Vietcombank",
+      "logo": "https://vnpay.vn:443/wp-content/uploads/2019/01/hd_03.png"
+    },
+    {
+      "id": 2,
+      "method": 2,
+      "type": "bidv",
+      "name": "BIDV",
+      "logo": "https://vnpay.vn:443/wp-content/uploads/2019/01/hd_05.png"
+    },
+    {
+      "id": 3,
+      "method": 3,
+      "type": "vietinbank",
+      "name": "VietinBank",
+      "logo": "https://vnpay.vn:443/wp-content/uploads/2019/01/hd_07.png"
+    },
+    {
+      "id": 4,
+      "method": 4,
+      "type": "agribank",
+      "name": "AGRIBANK",
+      "logo": "https://vnpay.vn:443/wp-content/uploads/2019/01/hd_09.png"
+    },
+    {
+      "id": 5,
+      "method": 5,
+      "type": "scb",
+      "name": "SCB",
+      "logo": "https://vnpay.vn:443/wp-content/uploads/2019/06/Screenshot_39.png"
+    }
+  ]
+  

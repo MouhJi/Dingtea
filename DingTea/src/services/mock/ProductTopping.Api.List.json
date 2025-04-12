@@ -1,0 +1,157 @@
+[
+  {
+    "id": 12,
+    "sku": "topping_12",
+    "type": "topping",
+    "name": "Trân châu đen",
+    "option_name": "",
+    "products": [
+      {
+        "id": 121,
+        "sku": "topping_121",
+        "type": "topping",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 12,
+        "indexes": [1]
+      },
+      {
+        "id": 122,
+        "sku": "topping_122",
+        "type": "topping",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 12,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sku": "topping_13",
+    "type": "topping",
+    "name": "Trân châu trắng",
+    "option_name": "",
+    "products": [
+      {
+        "id": 131,
+        "sku": "topping_131",
+        "type": "topping",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 5,
+        "indexes": [1]
+      },
+      {
+        "id": 132,
+        "sku": "topping_132",
+        "type": "topping",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 5,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sku": "topping_14",
+    "type": "topping",
+    "name": "Đậu đỏ",
+    "option_name": "",
+    "products": [
+      {
+        "id": 141,
+        "sku": "topping_141",
+        "type": "topping",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 8000,
+        "price": 8000,
+        "parent_id": 14,
+        "indexes": [1]
+      },
+      {
+        "id": 142,
+        "sku": "topping_142",
+        "type": "topping",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 8000,
+        "price": 8000,
+        "parent_id": 14,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "sku": "topping_15",
+    "type": "topping",
+    "name": "Thạch rau câu",
+    "option_name": "",
+    "products": [
+      {
+        "id": 151,
+        "sku": "topping_151",
+        "type": "topping",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 15,
+        "indexes": [1]
+      },
+      {
+        "id": 152,
+        "sku": "topping_152",
+        "type": "topping",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 15,
+        "indexes": [2]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "sku": "topping_16",
+    "type": "topping",
+    "name": "Thạch pudding",
+    "option_name": "",
+    "products": [
+      {
+        "id": 161,
+        "sku": "topping_161",
+        "type": "topping",
+        "name": "",
+        "option_name": "M",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 16,
+        "indexes": [1]
+      },
+      {
+        "id": 162,
+        "sku": "topping_162",
+        "type": "topping",
+        "name": "",
+        "option_name": "L",
+        "normal_price": 5000,
+        "price": 5000,
+        "parent_id": 16,
+        "indexes": [2]
+      }
+    ]
+  }
+]

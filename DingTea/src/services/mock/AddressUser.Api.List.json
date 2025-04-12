@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "type": "home",
+    "name": "Nguyen Van A",
+    "phone": "0123456789",
+    "address": "123 Đường A, Phường B",
+    "province": {
+      "id": "01",
+      "name": "Hà Nội"
+    },
+    "district": {
+      "id": "01-01",
+      "name": "Quận Hoàn Kiếm"
+    },
+    "ward": {
+      "id": "01-01-01",
+      "name": "Phường Tràng Tiền"
+    },
+    "is_default": true,
+    "is_active": true,
+    "created_by": {
+      "id": "admin",
+      "name": "Admin"
+    },
+    "created_at": 1700000000,
+    "updated_at": 1700000500
+  },
+  {
+    "id": 2,
+    "type": "company",
+    "name": "Nguyen Van B",
+    "phone": "0987654321",
+    "address": "456 Đường C, Phường D",
+    "province": {
+      "id": "02",
+      "name": "TP. Hồ Chí Minh"
+    },
+    "district": {
+      "id": "02-01",
+      "name": "Quận 1"
+    },
+    "ward": {
+      "id": "02-01-01",
+      "name": "Phường Bến Nghé"
+    },
+    "is_default": false,
+    "is_active": true,
+    "created_by": {
+      "id": "user123",
+      "name": "User 123"
+    },
+    "created_at": 1701000000,
+    "updated_at": 1701000500
+  },
+  {
+    "id": 3,
+    "type": "company",
+    "name": "Nguyen Van C",
+    "phone": "0912345678",
+    "address": "789 Đường E, Phường F",
+    "province": {
+      "id": "03",
+      "name": "Đà Nẵng"
+    },
+    "'district'": {
+      "id": "03-01",
+      "name": "Quận Hải Châu"
+    },
+    "ward": {
+      "id": "03-01-01",
+      "name": "Phường Thạch Thang"
+    },
+    "is_default": false,
+    "is_active": false,
+    "created_by": {
+      "id": "staff456",
+      "name": "Staff 456"
+    },
+    "created_at": 1702000000000,
+    "updated_at": 1702000500000
+  }
+]

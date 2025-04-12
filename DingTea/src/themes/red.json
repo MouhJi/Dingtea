@@ -1,0 +1,42 @@
+{
+    "BG": {
+        "PRIMARY": "#FF4646",
+        "PRIMARY_DARK": "#FF4646",
+        "PRIMARY_LIGHT": "#EBB2B7",
+
+        "SECONDARY": "#F5F5F5",
+        "SECONDARY_DARK": "#F2F2F2",
+        "SECONDARY_LIGHT": "#F2F7F6",
+
+        "WHITE": "#FFFFFF",
+
+        "BLACK": "#000000",
+        "BLACK_30": "rgba(0,0,0,0.3)"
+    },
+    "TEXT": {
+        "PRIMARY": "#211616",
+        "PRIMARY_LIGHT": "#ff3b30",
+        "PRIMARY_DARK": "#FF4646",
+
+        "SECONDARY": "#7B7B7B",
+        "SECONDARY_DARK": "#4E4A4A",
+        "SECONDARY_LIGHT": "#B4B4B4",
+        
+        "POSITIVE_BTN": "#007ff9",
+        "NEGATIVE_BTN": "#ff3b30",
+        "PLACEHOLDER": "#FCFCFC",
+
+        "RED": "#D81357",
+        "YELLOW": "#FFE62B",
+        "BROWN": "#C7A792",
+        "ORANGE": "#FF8B36",
+        "GREEN": "#0ABC3A",
+
+        "WHITE": "#FFFFFF",
+        "BLACK": "#000000"
+    },
+    "TAB": {
+        "ACTIVE": "#FF4646",
+        "INACTIVE": "#CFCFCF"
+    }
+}

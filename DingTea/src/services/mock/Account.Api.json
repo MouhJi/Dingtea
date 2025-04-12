@@ -1,0 +1,53 @@
+{
+    "token": {
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+      "refresh_token": "eyJhbGciOiJIUzI1NiJ9.refresh",
+      "access_expired_at": 1672531300000,
+      "refresh_expired_at": 1672631200000,
+      "type": "Bearer"
+    },
+    "user": {
+      "id": 1,
+      "name": "John Doe",
+      "note": "A loyal customer",
+      "phone": "0987654321",
+      "email": "johndoe@example.com",
+      "avatar": "https://chiemtaimobile.vn/images/companies/1/Ảnh%20Blog/avatar-facebook-dep/top-36-anh-dai-dien-dep-cho-nu/avatar-facebook-anime-nu-cute.jpg",
+      "cover": "https://i.pinimg.com/736x/c0/c4/f0/c0c4f06b14625c8fb9c4cdcbaa58c6d8.jpg",
+      "gender": "Male",
+      "birthday": 1672531200,
+      "tax_code": "123456789",
+      "company": "Example Corp",
+      "country": "USA",
+      "address": "123 Main St, Anytown, USA",
+      "is_active": true,
+      "is_verified_phone": true,
+      "is_verified_email": true,
+      "is_verified_password": true,
+      "type": "customer",
+      "role": "user",
+      "group": "default",
+      "stores": [
+        {
+          "id": 1,
+          "name": "Main Store",
+          "location": "123 Market St, Anytown, USA"
+        }
+      ],
+      "status": "active",
+      "permissions": ["view_orders", "edit_profile", "make_purchase"],
+      "created_by": {
+        "id": 100,
+        "name": "Admin User"
+      },
+      "total_debt": 0,
+      "total_order_price": 5000,
+      "total_invoice_price": 4900,
+      "total_return_price": 100,
+      "total_purchase": 10,
+      "total_point": 50,
+      "created_at": 1672531200000,
+      "updated_at": 1672531200000,
+      "last_purchase": 1675617600000
+    }
+  }

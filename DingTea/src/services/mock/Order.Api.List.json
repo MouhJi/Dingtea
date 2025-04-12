@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "idx": "202",
+    "code": "HD01873791",
+    "source": "app_android_end_user",
+    "status": "pending",
+    "type": "order",
+    "store": {
+      "id": 2,
+      "address": "27 Hàng Than, Ba Đình, Hà Nội",
+      "name": "27 Hàng Than",
+      "phone": "0987654321"
+    },
+    "option_name": "M",
+    "channel": {"id": 1, "name": "Bán online"},
+    "customer": {
+      "address": "123 Đường A, Phường B",
+      "created_at": 1700000000,
+      "created_by": {"id": "admin", "name": "Admin"},
+      "district": {"id": "01-01", "name": "Quận Hoàn Kiếm"},
+      "id": 1,
+      "is_active": true,
+      "is_default": true,
+      "name": "Nguyen Van A",
+      "phone": "0123456789",
+      "province": {"id": "01", "name": "Hà Nội"},
+      "type": "home",
+      "updated_at": 1700000500,
+      "ward": {"id": "01-01-01", "name": "Phường Tràng Tiền"}
+    },
+    "discounts": [],
+    "note": "ghi chu don hang tra xoai",
+    "payment": {
+      "id": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png",
+      "method": 5,
+      "name": "MoMo",
+      "type": "momo"
+    },
+    "products": [
+      {
+        "categories": [
+          {
+            "id": 1,
+            "name": "Trà Sữa"
+          }
+        ],
+        "id": 1,
+        "name": "Trà Xoài",
+        "note": "ghi chu tra xoai",
+        "option_id": 1112,
+        "option_name": "",
+        "option_type": "M",
+        "price": 37000,
+        "product_options": [
+          {
+            "id": 5,
+            "name": "1/2 đá",
+            "option_id": 51,
+            "option_name": "M",
+            "price": 0,
+            "sku": "ice",
+            "total_quantity": 1,
+            "type": "option"
+          },
+          {
+            "id": 9,
+            "name": "1/2 đường",
+            "option_id": 91,
+            "option_name": "M",
+            "price": 0,
+            "sku": "sugar",
+            "total_quantity": 1,
+            "type": "option"
+          },
+          {
+            "id": 12,
+            "name": "Trân châu đen",
+            "option_id": 121,
+            "option_name": "M",
+            "price": 5000,
+            "sku": "topping_121",
+            "total_quantity": 1,
+            "type": "topping"
+          },
+          {
+            "id": 5,
+            "name": "Trân châu trắng",
+            "option_id": 131,
+            "option_name": "M",
+            "price": 5000,
+            "sku": "topping_131",
+            "total_quantity": 1,
+            "type": "topping"
+          }
+        ],
+        "total_price": 47000,
+        "random_id": 1735268951672,
+        "thumbnail_url": "https://dingtea.vn/images/tea-best-1.png",
+        "total_quantity": 1
+      }
+    ],
+    "shipping": {
+      "id": 5,
+      "logo": "https://dingtea.vn/images/logospare.png",
+      "method": 5,
+      "name": "Dingtea Express",
+      "price": 0,
+      "type": "Giao tận nơi"
+    }
+  }
+]

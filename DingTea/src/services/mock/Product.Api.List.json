@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "sku": "tra-xoai",
+    "type": "item",
+    "status": "active",
+    "thumbnail_url": "https://dingtea.vn/images/tea-best-1.png",
+    "name": "Trà Xoài",
+    "option_name": "",
+    "rating_count": 5,
+    "hashtag": ["Trà sữa", "Hot deal", "Cặp đôi"],
+    "description": "Trà Xoài ngon tuyệt với nhiều topping hấp dẫn",
+    "normal_price": 40000,
+    "price": 37000,
+    "products": [
+      {
+        "id": 1112,
+        "sku": "",
+        "type": "item",
+        "option_name": "M",
+        "normal_price": 40000,
+        "price": 37000,
+        "indexes": [1]
+      },
+      {
+        "id": 1113,
+        "sku": "",
+        "type": "item",
+        "option_name": "L",
+        "normal_price": 55000,
+        "price": 49000,
+        "indexes": [2]
+      }
+    ],
+    "variations": [
+      {
+        "name": "Size",
+        "values": ["M", "L"]
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Trà Sữa"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "tra-dau",
+    "type": "item",
+    "status": "active",
+    "thumbnail_url": "https://dingtea.vn/images/tea-best-3.png",
+    "name": "Trà Dâu",
+    "option_name": "",
+    "rating_count": 5,
+    "hashtag": ["Trà sữa", "Hot deal", "Cặp đôi"],
+    "description": "Trà Dâu ngon tuyệt với nhiều topping hấp dẫn",
+    "normal_price": 40000,
+    "price": 37000,
+    "products": [
+      {
+        "id": 2222,
+        "sku": "",
+        "type": "item",
+        "option_name": "M",
+        "normal_price": 40000,
+        "price": 37000,
+        "indexes": [1]
+      },
+      {
+        "id": 2223,
+        "sku": "",
+        "type": "item",
+        "option_name": "L",
+        "normal_price": 55000,
+        "price": 49000,
+        "indexes": [2]
+      }
+    ],
+    "variations": [
+      {
+        "name": "Size",
+        "values": ["M", "L"]
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Trà Sữa"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "tra-o-long",
+    "type": "item",
+    "status": "active",
+    "thumbnail_url": "https://dingtea.vn/images/tea-best-4.png",
+    "name": "Trà Ô Long",
+    "option_name": "",
+    "rating_count": 5,
+    "hashtag": ["Trà sữa", "Hot deal", "Cặp đôi"],
+    "description": "Trà Ô Long ngon tuyệt với nhiều topping hấp dẫn",
+    "normal_price": 40000,
+    "price": 37000,
+    "products": [
+      {
+        "id": 3332,
+        "sku": "",
+        "type": "item",
+        "option_name": "M",
+        "normal_price": 40000,
+        "price": 37000,
+        "indexes": [1]
+      },
+      {
+        "id": 3333,
+        "sku": "",
+        "type": "item",
+        "option_name": "L",
+        "normal_price": 55000,
+        "price": 49000,
+        "indexes": [2]
+      }
+    ],
+    "variations": [
+      {
+        "name": "Size",
+        "values": ["M", "L"]
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Trà Sữa"
+      }
+    ]
+  }
+]
